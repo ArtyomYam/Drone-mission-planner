@@ -1,0 +1,17 @@
+
+
+
+
+
+@import 'leaflet/dist/leaflet.css';
+
+/* В App.css */
+html, body, #root, .App {
+  height: 100%;
+  margin: 0;
+}
+/* В App.css */
+.control-points-container {
+  max-height: 100%;
+  overflow-y: auto;
+}
